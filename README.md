@@ -7,3 +7,5 @@ Hello, this is a test for PyGithub
 Hello, this is a test of Ignore rebase if PR is opened
 
 Hello again, testing jgit diff
+
+Hello again, this will check the content of GHCompare
